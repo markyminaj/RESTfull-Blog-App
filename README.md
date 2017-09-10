@@ -8,4 +8,4 @@ Simple Blog to practice RESTful routing (CRUD) fundamentals
 ```
 Express, Mongoose, Express-Sanitizer, EJS, body-Parser
 ```
-
+## Will add more info later
