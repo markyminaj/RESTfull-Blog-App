@@ -1,5 +1,5 @@
 # RESTfull-Blog-App
-My First Project sent to Github!
+My first project sent to Github!
 Learning as I go..
 Simple Blog to practice RESTful routing (CRUD) fundamentals
 
